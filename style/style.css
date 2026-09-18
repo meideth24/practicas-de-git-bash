@@ -3,7 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: crimson;
+    background-color: blue;
 }
 
 .loading {
@@ -12,4 +12,5 @@ body {
     font-size: 1.2rem;
     font-weight: bold;
     text-align: center;
+    bottom:
 }
